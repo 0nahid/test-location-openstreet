@@ -38,8 +38,8 @@ function deg2rad(deg) {
 
 // Target location coordinates
 const targetLocation = {
-  lat: 24.3191857,
-  lng: 90.1752525,
+  lat: 32.968052,
+  lng: -80.226913,
 };
 
 // Provided address
@@ -47,9 +47,9 @@ const address = {
   county: "Dorchester",
   address1: "181 Rolling Meadows Dr",
   address2: "",
-  city: "Summerville",
-  state: "South Carolina",
-  zip: "29485",
+  city: "",
+  state: "",
+  zip: "",
 };
 
 // Compare address with target location
