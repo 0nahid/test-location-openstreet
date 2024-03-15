@@ -39,7 +39,7 @@ function deg2rad(deg) {
 // Target location coordinates
 const targetLocation = {
   lat: 32.968052,
-  lng: -80.226913,
+  lng: -80.227913,
 };
 
 // Provided address
